@@ -3,9 +3,9 @@ Movie Ticket Booking System
 
 Technology stack for Ticket Booking System
 -------------------------------------------
- FRONT END - React Js
- BACK END  - JAVA & Spring Boot
- DATABASE  - Postgresql
+ * FRONT END - React Js
+ * BACK END  - JAVA & Spring Boot
+ * DATABASE  - Postgresql
  
 Project Flow
 -------------
